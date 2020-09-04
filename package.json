@@ -30,7 +30,7 @@
     "karma-sourcemap-loader": "^0.3.7",
     "karma-spec-reporter": "0.0.32",
     "karma-webpack": "^3.0.5",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.13.1",
     "sass-loader": "^7.0.1",
     "sinon": "^7.1.1",
     "sinon-chai": "^3.3.0",
